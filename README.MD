@@ -8,3 +8,6 @@ The difference between NLTK and spacy are:
 
 
 ### word2vec 
+spaCy
+FinBERT
+HuggingFace models
