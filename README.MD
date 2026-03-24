@@ -1,4 +1,4 @@
-### NLP :NLTR, spaCy
+### NLP :NLTR, spaCy, FinBERT , HuggingFace models
 
 The difference between NLTK and spacy are:
 1.	NLTK supports various languages whereas spaCy have statistical models for 7 languages (English, German, Spanish, French, Portuguese, Italian, and Dutch). It also supports named entities for multi language.
@@ -7,7 +7,8 @@ The difference between NLTK and spacy are:
 4.	As spaCy uses the latest and best algorithms, its performance is usually good as compared to NLTK. In word tokenization and POS-tagging spaCy performs better, but in sentence tokenization, NLTK outperforms spaCy. Its poor performance in sentence tokenization is a result of differing approaches: NLTK attempts to split the text into sentences. In contrast, spaCy constructs a syntactic tree for each sentence, a more robust method that yields much more information about the text.
 
 
-### word2vec 
-spaCy
-FinBERT
-HuggingFace models
+5. word2vec 
+6. spaCy
+7. FinBERT
+8. HuggingFace models
+9. Transformers 
